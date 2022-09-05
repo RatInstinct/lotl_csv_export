@@ -1,12 +1,14 @@
 #################################################################################################################
 #
-# This script is based on the original one by sonnyakhere (https://github.com/sonnyakhere/LOLBAS_to_CSV)
+# This script is based on the original concept by sonnyakhere (https://github.com/sonnyakhere/LOLBAS_to_CSV)
 #
 # The script was modified from its original use to include the following data
 #
 # Description, Binary Path(s), Function, Type, Mitre Technique and Mitre URLs
 #
 # Script by Jason Lucas (2022)
+#
+# Version 1.1 - Added the ability to exclude any executables from the export if need be
 #
 #################################################################################################################
 
