@@ -4,7 +4,7 @@ Loosely based on the original concept by sonnyakhere (https://github.com/sonnyak
 
 The data is scraped from the https://lolbas-project.github.io/ website and then exported to a local CSV file
 
-Main Features :-
+Main Features :
 
  - CSV file contains Binary filename, File Description, File Location, Function, Mitre Technique, Mitre Technique URL
 
